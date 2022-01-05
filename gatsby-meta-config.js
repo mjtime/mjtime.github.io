@@ -1,5 +1,5 @@
 module.exports = {
-  title: `mjtime.com`,
+  title: `mjtime`,
   description: `mj_time`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://mjtime.github.io/`//`https://www.zoomkoding.com`,
