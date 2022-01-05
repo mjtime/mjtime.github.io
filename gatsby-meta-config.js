@@ -43,12 +43,21 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2021.02 ~',
-        activity: '개인 블로그 개발 및 운영',
+        date: '2020.12 ~',
+        activity: '개인 NAVER 블로그 운영',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          //post: '/gatsby-starter-zoomkoding-introduction',
+          //github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
+          //demo: 'https://www.zoomkoding.com',
+        },
+      },
+       {
+        date: '2022.01 ~',
+        activity: 'github page 운영',
+        links: {
+          //post: '/gatsby-starter-zoomkoding-introduction',
+          //github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
+          //demo: 'https://www.zoomkoding.com',
         },
       },
     ],
