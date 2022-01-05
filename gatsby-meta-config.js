@@ -2,7 +2,7 @@ module.exports = {
   title: `mjtime`,
   description: `mj_time`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://mjtime.github.io/`//`https://www.zoomkoding.com`,
+  siteUrl: `https://mjtime.github.io/`,//`https://www.zoomkoding.com`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
