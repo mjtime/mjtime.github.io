@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"포스트 테스트","categories":"블로그"},"fields":{"slug":"/gatsby-test/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"[android Studio][Kotlin] RecyclerView(리싸이클러뷰) 작성법","categories":"androidStudio"},"fields":{"slug":"/gatsby-androidStudio1/"}}}]}}}
