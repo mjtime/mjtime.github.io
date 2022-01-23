@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"[android Studio][Kotlin] RecyclerView(리싸이클러뷰) 작성법","categories":"androidStudio"},"fields":{"slug":"/gatsby-androidStudio1/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"[ARCore-android Studio][Kotlin][Java] ARCore작성","categories":"androidStudio ARCore"},"fields":{"slug":"/gastsby-arcore1/"}}},{"node":{"frontmatter":{"title":"[android Studio][Kotlin] RecyclerView(리싸이클러뷰) 작성법","categories":"androidStudio"},"fields":{"slug":"/gatsby-androidStudio1/"}}}]}}}
